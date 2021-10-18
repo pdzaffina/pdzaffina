@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Peter Zaffina
-- :thought_balloon: I’m interested in helping clients develop solutions to their buisness workflow problems using technology they probably already have available.
-- 🌱 I’m currently learning .Net 5, C#, F#
+- Hi, I’m Peter Zaffina
+- I’m interested in helping clients develop solutions to their business workflow problems using technology they probably already have available.
+- I’m currently learning .Net 5, C#, F#
 
 
 <!---
