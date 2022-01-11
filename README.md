@@ -1,6 +1,6 @@
 - Hi, I’m Peter Zaffina
 - I’m interested in helping clients develop solutions to their business workflow problems using technology they probably already have available.
-- I’m always learning Python, Django, React, Typescript
+- I’m always learning. Currently: Python, Django, React, Typescript
 
 
 <!---
