@@ -8,7 +8,7 @@
 
 pdzaffina/pdzaffina is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
---->
+
 My Tech Journey
 
 - Hacker according to old school definition Eric Raymond
@@ -50,8 +50,11 @@ My Tech Journey
 CEH
 Design Thinking, WPS
 Relevant certs
+
 CSSBB ASQ
 MS PP Functional Consultant
 MS PP Solutions Architect
 IBM Design Thinking
 IBM Design Thinking - AI
+
+-->
