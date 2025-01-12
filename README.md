@@ -1,11 +1,11 @@
 - Hi, I’m Peter Zaffina
 - I’m interested in helping tribes develop solutions to their business workflow problems using technology they probably already have available.
-- I’m always learning. Currently: Clojure, Clojurescript, F#
+- I’m always learning. Currently: F#, Event Sourcing, CQRS
 - Research interests
   - Postgresql
   - Grafana
   - containers for improved DX
-  - use of decoupled systems to deliver value fatser and improve DX 
+  - use of decoupled systems to deliver value faster and improve DX 
 
 <!---
 - 📫 How to reach me ...
