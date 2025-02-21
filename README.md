@@ -5,7 +5,7 @@
 - Research interests
   - Postgresql
   - Grafana
-  - containers for improved DX and Internal Developer Platforms
+  - Leveraging containers for improved DX and internal developer platforms
   - Event Sourcing patterns
 
 <!---
