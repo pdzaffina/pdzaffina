@@ -1,11 +1,11 @@
 - Hi, I’m Peter Zaffina
 - I’m interested in helping businesses develop solutions to their workflow problems using technology they probably already have available.
 - I'm on a journey to develop a better understanding of how to use Event-Based Architectural patterns to leverage business data and systems with less toil.
-- I’m always learning. Currently: F#, Event Sourcing, CQRS
+- I’m always learning. Currently: Event Modeling, Event Sourcing, CQRS
 - Research interests
   - Postgresql
   - Grafana
-  - Leveraging containers for improved DX and internal developer platforms
+  - Leveraging containers for improved developer experience and internal developer platforms
   - Event Sourcing patterns
 
 <!---
