@@ -3,6 +3,7 @@
 - I'm on a journey to develop a better understanding of how to use Event-Based Architectural patterns to leverage business data and systems with less toil.
 - I’m always learning. Currently: Event Modeling, Event Sourcing, CQRS
 - Research interests
+  - LangChain
   - Postgresql
   - Grafana
   - Leveraging containers for improved developer experience and internal developer platforms
