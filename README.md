@@ -1,13 +1,11 @@
 - Hi, I’m Peter Zaffina
 - I’m interested in helping businesses develop solutions to their workflow problems using technology they probably already have available.
-- I'm on a journey to develop a better understanding of how to use Event-Based Architectural patterns to leverage business data and systems with less toil.
-- I’m always learning. Currently: Event Modeling, Event Sourcing, CQRS
+- I'm on a journey to develop a better understanding of how to use Event-Based Architectural patterns to leverage business data and systems with less toil. AI can help amplify this pattern. It turns out AI loves events.
+- I’m always learning. Currently: OpenCode, Beads, Open Weight LLMS, Uses for agentic AI systems
 - Research interests
-  - LangChain
-  - Postgresql
-  - Grafana
-  - Leveraging containers for improved developer experience and internal developer platforms
-  - Event Sourcing patterns
+  - LLMs/SLMs
+  - Agentic AI
+  - AI augmented software engineering or "Vibe Coding"
 
 <!---
 - 📫 How to reach me ...
