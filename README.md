@@ -6,6 +6,7 @@
   - LLMs/SLMs
   - Agentic AI
   - AI augmented software engineering or "Vibe Coding"
+  - Building a multi agent workflow for SRE work
 
 <!---
 - 📫 How to reach me ...
